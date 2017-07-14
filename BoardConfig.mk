@@ -14,18 +14,18 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/lge/h872
+DEVICE_PATH := device/lge/us997
 
 # inherit from common g6
 -include device/lge/g6-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := g6,lucye,h872
+TARGET_OTA_ASSERT_DEVICE := g6,lucye,us997
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_h872_defconfig
+TARGET_KERNEL_CONFIG := lineageos_us997_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # inherit from the proprietary version
--include vendor/lge/h872/BoardConfigVendor.mk
+-include vendor/lge/us997/BoardConfigVendor.mk
