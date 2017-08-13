@@ -11,5 +11,5 @@ PRODUCT_NAME := lineage_us997
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g6" \
     PRODUCT_NAME="lucye_nao_us" \
-    BUILD_FINGERPRINT="lge/lucye_nao_us/lucye:7.0/NRD90U/171711753c9cd:user/release-keys" \
-    PRIVATE_BUILD_DESC="lucye_nao_us-user 7.0 NRD90U 171711753c9cd release-keys"
+    BUILD_FINGERPRINT="lge/lucye_nao_us/lucye:7.0/NRD90U/172061549d102:user/release-keys" \
+    PRIVATE_BUILD_DESC="lucye_nao_us-user 7.0 NRD90U 172061549d102 release-keys"
