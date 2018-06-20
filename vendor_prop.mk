@@ -1,8 +1,9 @@
 #
-# Vendor Properties for T-Mobile LG G6
+# Vendor Properties for US Unlocked LG G6
 #
 
 # Radio
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.telephony.default_network=22 \
-    telephony.lteOnGsmDevice=1
+    ro.telephony.default_network=10 \
+    telephony.lteOnCdmaDevice=1
+
