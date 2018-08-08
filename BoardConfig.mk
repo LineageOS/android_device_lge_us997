@@ -20,6 +20,7 @@ DEVICE_PATH := device/lge/us997
 -include device/lge/g6-common/BoardConfigCommon.mk
 
 TARGET_OTA_ASSERT_DEVICE := g6,lucye,us997
+TARGET_SYSTEM_PARTITION := /dev/sda17
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_us997_defconfig
