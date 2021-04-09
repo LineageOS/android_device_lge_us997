@@ -25,4 +25,4 @@ TARGET_OTA_ASSERT_DEVICE := g6,lucye,us997
 TARGET_KERNEL_CONFIG := lineageos_us997_defconfig
 
 # inherit from the proprietary version
--include vendor/lge/us997/BoardConfigVendor.mk
+include vendor/lge/us997/BoardConfigVendor.mk
