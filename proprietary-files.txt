@@ -1,5 +1,5 @@
 # Bluetooth
-vendor/firmware/BCM4359C0_003.001.006.0093.0142_LGE_DIVA_NA.HCD:vendor/firmware/BCM4359C0.hcd
+vendor/firmware/BCM4359C0_003.001.006.0093.0142_LGE_DIVA_NA.HCD:vendor/firmware/BCM43xx.hcd
 
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
