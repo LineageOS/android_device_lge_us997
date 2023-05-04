@@ -1,5 +1,8 @@
+### All blobs from this list, unless pinned and noted as otherwise,
+##  are from from lucye_nao_us-user 8.0.0 OPR1.170623.032 190420940e75c release-keys
+
 # Bluetooth
-vendor/firmware/BCM4359C0_003.001.006.0093.0142_LGE_DIVA_NA.HCD:vendor/firmware/BCM43xx.hcd
+vendor/firmware/BCM4359C0_003.001.006.0145.0320_LGE_DIVA_NA.HCD:vendor/firmware/BCM43xx.hcd
 
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
@@ -17,7 +20,7 @@ vendor/firmware/a530v3_gpmu.fw2
 vendor/firmware/a530v3_seq.fw2
 
 # Wi-Fi
-vendor/firmware/fw_bcmdhd.bin
-vendor/firmware/fw_bcmdhd_apsta.bin
-vendor/firmware/fw_bcmdhd_mfg.bin
+vendor/etc/firmware/fw_bcmdhd.bin:vendor/firmware/fw_bcmdhd.bin
+vendor/etc/firmware/fw_bcmdhd_apsta.bin:vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/etc/firmware/fw_bcmdhd_mfg.bin:vendor/firmware/fw_bcmdhd_mfg.bin
 vendor/etc/wifi/4359_lg.clm_blob
