@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/us997
 TARGET_OTA_ASSERT_DEVICE := g6,lucye,us997
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_us997_defconfig
+TARGET_KERNEL_CONFIG := vendor/lge/us997.config
 
 # inherit from the proprietary version
 include vendor/lge/us997/BoardConfigVendor.mk
