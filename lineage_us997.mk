@@ -34,5 +34,4 @@ PRODUCT_MANUFACTURER := LGE
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="lucye_nao_us-user 8.0.0 OPR1.170623.032 190420940e75c release-keys" \
     BuildFingerprint="lge/lucye_nao_us/lucye:8.0.0/OPR1.170623.032/190420940e75c:user/release-keys" \
-    DeviceName="lucye_nao_us" \
     DeviceProduct="lucye"
